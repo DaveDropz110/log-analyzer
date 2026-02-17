@@ -1,0 +1,7 @@
+INFO User login
+ERROR Invalid password
+INFO File downloaded
+WARNING Disk almost full
+ERROR Connection timeout
+INFO User logout
+random unexpected line
